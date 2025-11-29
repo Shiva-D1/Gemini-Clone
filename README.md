@@ -1,0 +1,1 @@
+Gemini Clone using only Html, Css, Javascript and Google Gemini API which is free for all.I am not providing my API Key if you want to use this project then create your own Gemini API Key and paste that key in 12th line of script.js file.
